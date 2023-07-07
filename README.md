@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuma Tsuri</h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsuri33&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=tsuri33&count_private=true&show_icons=true&show_icons=true&theme=onedark" /></p>
