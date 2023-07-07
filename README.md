@@ -23,4 +23,5 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [【Swift】標準入力された文字列を1文字ずつ分解して配列に変換する方法](https://qiita.com/y_ma3/items/9ff36d08433a8d900fd8)
 <!-- BLOG-POST-LIST:END -->
