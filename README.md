@@ -10,7 +10,7 @@
 - 📫 How to reach me **yuma33t@gmail.com**
 
 ### Blogs posts
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsuri33&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsuri33&show_icons=true&&theme=onedarklocale=en&layout=compact"/></p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
