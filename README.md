@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yuma33t@gmail.com**
 
-- 📝 I regularly write articles on [Qiita](https://qiita.com/y_ma3/feed)
+- 📝 I regularly write articles on [Qiita](https://qiita.com/y_ma3)
 
 ## Blogs posts
 
