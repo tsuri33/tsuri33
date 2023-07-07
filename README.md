@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://tsuri33.github.io/](https://tsuri33.github.io/)
 
-- 📝 I regularly write articles on [Qiita](https://qiita.com/y_ma3/feed)
-
 - 📫 How to reach me **yuma33t@gmail.com**
 
 ### Blogs posts
