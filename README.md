@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [https://github.com/y-ma3/task-progress-visualization-app](https://github.com/y-ma3/task-progress-visualization-app)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift and iOS**
 
 - 👨‍💻 All of my projects are available at [my portfolio site](https://tsuri33.github.io/)
 
