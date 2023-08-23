@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Swift and iOS**
 
-- 👨‍💻 All of my projects are available at [my portfolio site](https://tsuri33.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio site](https://y-ma3.github.io/)
 
 - 📫 How to reach me **yuma33t@gmail.com**
 
