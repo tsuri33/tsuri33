@@ -2,21 +2,13 @@
 
 ## Hi 👋, I'm Yuma Tsuri
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=y-ma3&count_private=true&show_icons=true&show_icons=true&theme=onedark" /></p>
+<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=y-ma3&count_private=true&show_icons=true&show_icons=true&theme=onedark" /></p>
 
-- 🔭 I’m currently working on [https://github.com/y-ma3/task-progress-visualization-app](https://github.com/y-ma3/task-progress-visualization-app)
+<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=y-ma3&" /></p>
 
-- 🌱 I’m currently learning **Swift and iOS**
+## Blogs posts　<a href="" target="blank"><img align="center" src="" width="30" height="30 /></a>
 
-- 👨‍💻 All of my projects are available at [my portfolio site](https://y-ma3.github.io/)
-
-- 📫 How to reach me **yuma33t@gmail.com**
-
-- 📝 I regularly write articles on [Qiita](https://qiita.com/y_ma3)
-
-## Blogs posts
-
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ma3&show_icons=true&locale=en&layout=compact&theme=onedark"/></p>
+<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ma3&show_icons=true&locale=en&layout=compact&theme=onedark"/></p>
 
 <p align="left"><a href="/https://qiita.com/y_ma3/feed" target="blank"></a></p>
 
