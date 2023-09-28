@@ -2,9 +2,9 @@
 
 ## Hi 👋, I'm Yuma Tsuri
 
-<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ma3&show_icons=true&locale=en&layout=compact&theme=onedark" height="200px" /></p>
+<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ma3&show_icons=true&locale=en&layout=compact&theme=onedark" height="180px" /></p>
 
-<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=y-ma3&theme=dark" height="200px" /></p>
+<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=y-ma3&theme=dark" height="180px" /></p>
 
 ## Blogs posts　<a href="https://qiita.com/y_ma3" target="blank"><img align="center" src="https://github.com/y-ma3/y-ma3/assets/133128231/f786ae52-1372-4110-afe1-2531d6a44860" width="30" height="30" /></a>
 
