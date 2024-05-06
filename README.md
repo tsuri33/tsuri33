@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=y-ma3&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Hi 👋, I'm Yuma Tsuri
 
 <p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ma3&show_icons=true&locale=en&layout=compact&theme=onedark" height="170px" /></p>
